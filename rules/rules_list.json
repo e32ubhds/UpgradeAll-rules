@@ -38,6 +38,11 @@
       "hub_config_name": "闪电下载官网",
       "hub_config_uuid": "4220fd3f-cae0-4fed-8340-c14d2f6477a3",
       "hub_config_file_name": "LiteDownloader"
+    },
+    {
+      "hub_config_name": "Magisk",
+      "hub_config_uuid": "2140a5e8-55b2-4b5f-818f-0147d6a27f0a",
+      "hub_config_file_name": "Magisk"
     }
   ]
 }
